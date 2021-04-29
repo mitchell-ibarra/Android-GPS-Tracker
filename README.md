@@ -11,3 +11,8 @@ Simple Android GPS tracker app that lets user turn location tracking on and off 
 - LocationRequest class to request quality of service for location updates 
 
 ## Screenshots
+<p float="left">
+  <img width="220" height="410" src="https://user-images.githubusercontent.com/73446624/116508262-ee31de00-a88e-11eb-9d06-7ea50520867a.png">
+  <img width="220" height="410" src="https://user-images.githubusercontent.com/73446624/116508295-01dd4480-a88f-11eb-8036-7060d7183aad.png">
+  <img width="220" height="410" src="https://user-images.githubusercontent.com/73446624/116508298-043f9e80-a88f-11eb-99f1-99f6482f7301.png">
+</p>
